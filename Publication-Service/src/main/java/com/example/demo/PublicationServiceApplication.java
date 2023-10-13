@@ -27,7 +27,7 @@ public class PublicationServiceApplication implements CommandLineRunner{
 		Publication publication1 = Publication.builder()
 				.type("article")
 				.titre("DevOps")
-				.lien("article.com")
+				.lien("www.article.com")
 				.date(new Date())
 				.sourcepdf("article.pdf")
 				.build();
