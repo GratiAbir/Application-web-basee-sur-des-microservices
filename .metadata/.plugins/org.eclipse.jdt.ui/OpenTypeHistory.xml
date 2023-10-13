@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+    <typeInfo handle="=Membre-Service/C:\/Users\/Asus\/.m2\/repository\/org\/springframework\/data\/spring-data-jpa\/3.1.3\/spring-data-jpa-3.1.3.jar=/maven.pomderived=/true=/=/maven.groupId=/org.springframework.data=/=/maven.artifactId=/spring-data-jpa=/=/maven.version=/3.1.3=/=/maven.scope=/compile=/=/maven.pomderived=/true=/&lt;org.springframework.data.jpa.repository(JpaRepository.class[JpaRepository" modifiers="1537" timestamp="1695110196547"/>
+    <typeInfo handle="=Membre-Service/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.example.demo.service{IMembreService.java[IMembreService" modifiers="513" timestamp="1696975044284"/>
+    <typeInfo handle="=Publication-Service/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.example.demo.service{IPublicationService.java[IPublicationService" modifiers="513" timestamp="1696979935444"/>
+</typeInfoHistroy>

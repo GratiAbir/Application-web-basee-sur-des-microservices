@@ -1,0 +1,9 @@
+package com.example.demo.dao;
+
+public interface PublicationRepository {
+	  List<Publication> findByTitre(String titre);
+	  List<Publication> findByDate(Date date);
+	  List<Publication> findByLien(String lien);
+	  List<Publication> findByType(String type);
+	  List<Publication> findBySourcepdf(String sourcepdf);
+}
