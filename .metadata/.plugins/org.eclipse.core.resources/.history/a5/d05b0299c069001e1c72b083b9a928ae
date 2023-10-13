@@ -25,11 +25,11 @@ public class PublicationServiceApplication implements CommandLineRunner{
 	public void run(String... args) throws Exception {
 
 		Publication publication1 = Publication.builder()
-				.type("article")
-				.titre("DevOps")
-				.lien("article.com")
+				.type("type1")
+				.titre("1ere pub")
+				.lien("pub.com")
 				.date(new Date())
-				.sourcepdf("article.pdf")
+				.sourcepdf("pdf1")
 				.build();
 
         publication1 = publicationRepository.save(publication1);
